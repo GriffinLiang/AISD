@@ -1,6 +1,6 @@
 # AISD
 
-Acute ischemic stroke dataset contains 397 Non{Contrast-enhanced CT (NCCT) scans of acute ischemic stroke with the interval from symptom onset to CT less than 24 hours. The patients underwent diffusion-weighted MRI (DWI) within 24 hours after taking the CT. The slice thickness of NCCT is 5mm. 345 scans are used to train and validate the model, and the remaining 52 scans are used for testing. Ischemic lesions are manually contoured on NCCT by a doctor using MRI scans as the reference standard. Then a senior doctor double-reviews the labels.
+Acute ischemic stroke dataset contains 397 Non-Contrast-enhanced CT (NCCT) scans of acute ischemic stroke with the interval from symptom onset to CT less than 24 hours. The patients underwent diffusion-weighted MRI (DWI) within 24 hours after taking the CT. The slice thickness of NCCT is 5mm. 345 scans are used to train and validate the model, and the remaining 52 scans are used for testing. Ischemic lesions are manually contoured on NCCT by a doctor using MRI scans as the reference standard. Then a senior doctor double-reviews the labels.
 
 1. Download the image data (image.zip) [[Baidu YUN]](https://pan.baidu.com/s/12nouuU6MbFrQps4EmTcomA) with the password "aisd".
 2. Download the mask data (mask.zip) [[Baidu YUN]](https://pan.baidu.com/s/1MR4tAEHypdTRnqprXuRRXQ) with the password "aisd".
