@@ -5,7 +5,7 @@ Acute ischemic stroke dataset contains 397 Non-Contrast-enhanced CT (NCCT) scans
 1. Download the image data (image.zip) [[Baidu YUN]](https://pan.baidu.com/s/12nouuU6MbFrQps4EmTcomA) with the password "aisd".
 2. Download the mask data (mask.zip) [[Baidu YUN]](https://pan.baidu.com/s/1MR4tAEHypdTRnqprXuRRXQ) with the password "aisd".
 3. Download the dicom data (dicom-0.tar.gz)[[Baidu YUN]](https://pan.baidu.com/s/1JLgGtkdzP8TlH2va5LRQ7w), (dicom-1.tar.gz)[[Baidu YUN]](https://pan.baidu.com/s/15CFiAdhI0cG7Ad1GT3gpUQ), (dicom-2.tar.gz)[[Baidu YUN]](https://pan.baidu.com/s/1QLOUojfAzFSE3-F8hTJZ7w) with the password "aisd".
-4. Four missing dicom files('0091465', '0091468', '0091505', '0091519') can be downloaded from (dicom-3.tar.gz)[[Baidu_YUN]](https://pan.baidu.com/s/1Rblm1fU6xrpYSQub45f-Ig) with the password "aisd". Thanks yimuu for pointing this out.
+4. Four missing dicom files('0091465', '0091468', '0091505', '0091519') can be downloaded from (dicom-3.tar.gz)[[Baidu_YUN]](https://pan.baidu.com/s/1Rblm1fU6xrpYSQub45f-Ig) with the password "aisd". Thank yimuu for pointing this out.
 
 ![Samples](https://github.com/GriffinLiang/AISD/blob/main/vis.png)
 
