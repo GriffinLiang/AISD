@@ -6,6 +6,7 @@ Acute ischemic stroke dataset contains 397 Non-Contrast-enhanced CT (NCCT) scans
 2. Download the mask data (mask.zip) [[Baidu YUN]](https://pan.baidu.com/s/1MR4tAEHypdTRnqprXuRRXQ) with the password "aisd".
 3. Download the dicom data (dicom-0.tar.gz)[[Baidu YUN]](https://pan.baidu.com/s/1JLgGtkdzP8TlH2va5LRQ7w), (dicom-1.tar.gz)[[Baidu YUN]](https://pan.baidu.com/s/15CFiAdhI0cG7Ad1GT3gpUQ), (dicom-2.tar.gz)[[Baidu YUN]](https://pan.baidu.com/s/1QLOUojfAzFSE3-F8hTJZ7w) with the password "aisd".
 4. Four missing dicom files('0091465', '0091468', '0091505', '0091519') can be downloaded from (dicom-3.tar.gz)[[Baidu_YUN]](https://pan.baidu.com/s/1Rblm1fU6xrpYSQub45f-Ig) with the password "aisd". Thank yimuu for pointing this out.
+5. The data ids in test set are 0073410, 0072723, 0226290, 0537908, 0538058, 0091415, 0538780, 0073540, 0226188, 0226258, 0226314, 0091507, 0226298, 0538975, 0226257, 0226142, 0072681, 0091538, 0538983, 0537961, 0091646, 0072765, 0226137, 0091621, 0091458, 0021822, 0538319, 0226133, 0091657, 0537925, 0073489, 0538502, 0091476, 0226136, 0538532, 0073312, 0539025, 0226309, 0226307, 0091383, 0021092, 0537990, 0226299, 0073060, 0538505, 0073424, 0091534, 0226125, 0072691, 0538425, 0226199, 0226261.
 
 ![Samples](https://github.com/GriffinLiang/AISD/blob/main/vis.png)
 
